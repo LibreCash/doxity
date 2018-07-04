@@ -32,13 +32,13 @@
     "eslint-plugin-react": "^6.4.1"
   },
   "dependencies": {
+    "fs-extra": "^6.0.1",
     "glob": "^7.1.1",
     "keccakjs": "^0.2.1",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "request": "^2.79.0",
     "rimraf": "^2.5.4",
-    "tar.gz": "^1.0.5",
     "toml": "^2.3.0",
     "tomlify-j0.4": "^1.0.1",
     "truffle-config": "^1.0.2",
